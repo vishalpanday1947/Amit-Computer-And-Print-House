@@ -108,8 +108,7 @@ a:active {
   font-size: 40px;
   font-weight: 900;
   font-weight: 1000;
-  -webkit-text-stroke: 1px #03256C;
-  color: white;
+  color: black;
 }
 .contact{
   background-color: #03256C;
